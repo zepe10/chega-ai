@@ -1,0 +1,4 @@
+node_modules/
+frontend/**/build/
+frontend/.gradle/
+package-lock.json

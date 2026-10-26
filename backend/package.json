@@ -1,0 +1,12 @@
+{
+  "name": "chega-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API REST de desenvolvimento (json-server) usada pelo aplicativo Chega Aí",
+  "scripts": {
+    "start": "json-server --watch db.json --host 0.0.0.0 --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "0.17.4"
+  }
+}

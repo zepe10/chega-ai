@@ -1,0 +1,49 @@
+{
+  "rides": [
+    {
+      "id": "1",
+      "rideId": "seed-ride-0001",
+      "driverEmail": "marcos.silva@aluno.faculdade.edu.br",
+      "driverName": "Marcos Silva",
+      "origin": "Bairro Centro",
+      "destination": "Campus Universitário",
+      "route": "Av. Brasil > Rua das Flores > Portaria 2",
+      "departureAt": 1893495600000,
+      "seatsTotal": 3,
+      "vehicle": "Fiat Argo cinza",
+      "notes": "Saída pontual, sem fumantes.",
+      "driverRole": "STUDENT",
+      "driverCourse": "Engenharia de Software"
+    },
+    {
+      "id": "2",
+      "rideId": "seed-ride-0002",
+      "driverEmail": "ana.costa@aluno.faculdade.edu.br",
+      "driverName": "Ana Costa",
+      "origin": "Cidade Vizinha - Terminal",
+      "destination": "Campus Universitário",
+      "route": "BR-116 > Acesso Norte",
+      "departureAt": 1893499200000,
+      "seatsTotal": 4,
+      "vehicle": "VW Gol branco",
+      "notes": "Dividimos o pedágio.",
+      "driverRole": "STUDENT",
+      "driverCourse": "Direito"
+    },
+    {
+      "id": "3",
+      "rideId": "seed-ride-0003",
+      "driverEmail": "prof.helena@faculdade.edu.br",
+      "driverName": "Profa. Helena Rocha",
+      "origin": "Jardim das Acácias",
+      "destination": "Campus Universitário",
+      "route": "Av. das Acácias > Rua Central",
+      "departureAt": 1893502800000,
+      "seatsTotal": 2,
+      "vehicle": "Honda City prata",
+      "notes": "",
+      "driverRole": "PROFESSOR",
+      "driverCourse": ""
+    }
+  ]
+}
